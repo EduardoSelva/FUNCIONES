@@ -6,3 +6,4 @@ def sumar_valores(x,y):
 x = 6
 y = 7
 print(sumar_valores(x,y))
+print("*************************")
